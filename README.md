@@ -1,3 +1,10 @@
+Title : Student Management System
+Team Members (SRN Name): Princia D’souza (PES2UG22CS416) 
+                         Raahithya Jayaram (PES2UG22CS421)
+                         Raashi Bafna (PES2UG22CS422)
+                         Rachana R Aithal (PES2UG22CS424)
+
+
 
 
 SYNOPSIS:
