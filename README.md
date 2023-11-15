@@ -1,5 +1,9 @@
-# studentmanagementsystem
+
+
+SYNOPSIS:
+
 In this project we are creating a Student Management System. It allows users to perform various operations on a list of student records, such as adding students, displaying their information, searching for students, modifying student records, deleting students, and performing statistics and sorting operations. 
+
 1) Header Files: The code includes standard C libraries :stdio.h, stdlib.h, string.h, math.h .
 
 
@@ -46,7 +50,10 @@ Initializes an empty student records linked list.
 Provides a menu to perform various operations, such as adding, displaying, searching, modifying, deleting students, calculating statistics, sorting students, reading and writing to files and changing the system password.
 The program runs in an infinite loop, allowing the user to choose from the menu until they choose to exit.
 
-
+5)  Files used
+classA.csv
+classB.csv
+password.txt
 
 
 ADT Definitions of Data Structures used:
@@ -124,10 +131,11 @@ Operations ( a few examples) :
 Create(size): Creates an array of a specified size.
 Access(index): Retrieves the element at the specified index.
 Modify(index, value): Changes the value of the element at the specified index.
-Length(): Returns the number of elements in the array.
+Length(): Returns the number of elements in the aray.
 Resize(newSize): Changes the size of the array to the specified size. This may involve copying the existing elements to a new array.
 Search(value): Searches for an element with the given value and returns its index.
 IsEmpty(): Checks if the array is empty (has no elements).
 IsFull(): Checks if the array is full (no more elements can be added).
+
 
 
